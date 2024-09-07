@@ -1,2 +1,2 @@
-# Online-Food-Website
-This project based web development for website design using language html, css and javascript 
+#online food website
+This is web development using language html,css and javascript online 
